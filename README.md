@@ -8,7 +8,7 @@ Paddock is a native Mac client for [Herdr](https://herdr.dev), the runtime your 
 
 **From the app (best).** Choose **Help › Send Feedback…** or press `⇧⌘/`. Write what felt off and press Send. Your browser opens a new issue here, already filled in with the details we need: app and Herdr versions, macOS version, what was on screen, and your last few key presses. Check it, then press **Submit new issue**.
 
-If you tick **include screenshot**, Paddock copies a picture of its window to your clipboard. Paste it into the issue with `⌘V`.
+To add screenshots or files, paste them (`⌘V`) or drop them into the feedback panel. When the issue opens, press `⌘V` to paste a single attachment, or drag several in from the small tray Paddock shows.
 
 **By hand.** [Open a new issue](../../issues/new?template=feedback.md) and fill in the template.
 
